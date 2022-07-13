@@ -36,6 +36,7 @@ li {
 #block11 {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 #block11 img {
     width: 75%;
@@ -98,4 +99,13 @@ input {
     border: 3px;
     border-radius: 100px;
 
+}
+
+#block13 {
+    margin: 0px;
+}
+
+h1 {
+    width: 500px;
+    margin: 0px;
 }
