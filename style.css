@@ -9,6 +9,7 @@ img {
 #nav {
     display:flex ;
     justify-content: space-between;
+    align-items: center;
 }
 
 ul {
@@ -44,8 +45,8 @@ li {
 
 #div1 p {
     position: absolute;
-    left: 100px;
-    top: 600px;
+    left: 50px;
+    top: 950px;
     color: white;
     margin: 10px;
     font-size: 30px;
@@ -53,8 +54,8 @@ li {
 
 #div1 h2 {
     position: absolute;
-    left: 100px;
-    top: 650px;
+    left: 50px;
+    top: 1015px;
     color: white;
     margin: 10px;
     font-size: 45px;
@@ -79,4 +80,20 @@ li {
 
 #footer p {
     padding: 15px;
+}
+
+#Nike {
+    width: 1887px;
+    height: 400px;
+}
+
+li:hover {
+    border-bottom: 3px solid black;
+}
+
+input {
+    height:30px ;
+    border: 3px;
+    border-radius: 100px;
+
 }
